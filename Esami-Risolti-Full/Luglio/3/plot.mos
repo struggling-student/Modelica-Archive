@@ -1,0 +1,46 @@
+
+// to be defined
+
+
+
+
+plot({env[1,1].Xval,
+env[1,1].Usys.U,
+m1[1,1].Mavg.last_inserted,
+m1[1,1].Mavg.oldest_value,
+m1[1,1].Mavg.w,
+c1[1,1].ValueFromServer,
+c1[1,1].Mavg.y,
+c1[1,1].fifos2c.fifosize,
+m1[1,1].y,
+c1[2,1].ValueFromServer,
+c1[2,1].fifos2c.fifosize,
+c1[2,1].Mavg.y,
+m1[2,1].y,
+y,
+ypy[1,1],
+ypy[2,1]
+}, externalWindow=true, fileName="System_res.mat");
+
+getErrorString();
+
+/*
+plot({env[1,1].Xval,
+env[1,1].Usys.U,
+m1[1,1].Mavg.last_inserted,
+m1[1,1].Mavg.oldest_value,
+m1[1,1].Mavg.w,
+c1[1,1].ValueFromServer,
+c1[1,1].Mavg.y,
+c1[1,1].fifos2c.fifosize,
+m1[1,1].y,
+c1[2,1].ValueFromServer,
+c1[2,1].fifos2c.fifosize,
+c1[2,1].Mavg.y,
+m1[2,1].y,
+y,
+i,
+j
+}, externalWindow=true, fileName="System_res.mat");
+
+*/

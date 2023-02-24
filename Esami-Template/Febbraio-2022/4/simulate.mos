@@ -1,0 +1,5 @@
+
+
+simulate(System, stopTime=50);
+getErrorString();
+

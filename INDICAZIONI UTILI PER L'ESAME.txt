@@ -1,0 +1,31 @@
+MARKOW CHAIN:
+
+STUDIO PROBABILITA'
+il tempo di soggiorno è dato da il valore del prof+magic number, si consiglia di metterlo in un array in un file chiamato costants (vedere esempi) per prendere i valori quando si cicla.
+TDS=tempo di soggiorno
+
+La probabilità di cambiare stato è data da 1-T/TDS e andrà messa in loopprob
+
+i calcoli della varie probabilità seguendo le indicazioni nel file del prof si scriveranno nel file P (vedere esempi) richiamando LoopProb, le fasi in costants e T che è un valore fisso dato nel testo dell'esercizio
+
+ESECUZIONE DELLA CHAIN
+nel blocco DTMC
+specifico il T dato nel testo
+inizializzo lo scorrimento nella matrice per creare le mie probabilità di transizione
+
+
+MONITOR
+quando si raggiunge la delivery si passa da 0 a 1 e vedo quanto tempo c'è voluto per fare la fase di delivery
+
+BUILD
+imposto l'orizzonte di simulazione stopTime che viene dato nel testo
+
+SIMULATE
+imposto l'orizzonte di simulazione stopTime che viene dato nel testo
+
+SYSTEM
+inizializzo 	la chain
+		il monitor
+equation
+connetto	(mc.x m1.x)		//output matrice nell'input del monitor
+		

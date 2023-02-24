@@ -1,0 +1,18 @@
+
+// to be defined
+
+
+
+plot({
+user1.Zref,
+plant1.u,
+plant1.x[1],
+plant1.x[2],
+plant1.x[3],
+ctr1.z[1],
+ctr1.v[1],
+ctr1.v[2],
+m1.Y
+}, externalWindow=true, fileName="System_res.mat");
+
+getErrorString();

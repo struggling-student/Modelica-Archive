@@ -1,0 +1,8 @@
+
+// to be defined
+
+
+plot({env1.u[1], env1.u[2], env1.u[3], m1.y, c1tos1.inputdata[1], c1tos1.inputdata[2], c1tos1.inputdata[3], c1tos1.outputdata[1], c1tos1.outputdata[2], c1tos1.outputdata[3], c2tos1.inputdata[1], c2tos1.inputdata[2], c2tos1.inputdata[3], c2tos1.outputdata[1], c2tos1.outputdata[2], c2tos1.outputdata[3], s1toc1.inputdata[1], s1toc1.outputdata[1], s1toc2.inputdata[1], s1toc2.outputdata[1]}, externalWindow=true, fileName="System_res.mat");
+
+getErrorString();
+

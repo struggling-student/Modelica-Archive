@@ -1,0 +1,19 @@
+
+// to be defined
+
+
+
+
+plot({env[1,1].Xval,
+env[1,1].Usys.U,
+m1[1,1].y,
+m1[1,1].Mavg.last_inserted,
+m1[1,1].Mavg.oldest_value,
+m1[1,1].Mavg.w,
+env[1,2].Xval,
+m1[1,2].y
+}, externalWindow=true, fileName="System_res.mat");
+
+getErrorString();
+
+

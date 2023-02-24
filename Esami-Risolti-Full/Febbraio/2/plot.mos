@@ -1,0 +1,9 @@
+
+// to be defined
+
+
+
+
+plot({env.u[1], env.u[2], env.u[3], m1.y, m1.counter}, externalWindow=true, fileName="System_res.mat");
+getErrorString();
+

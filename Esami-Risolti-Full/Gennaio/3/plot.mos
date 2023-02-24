@@ -1,0 +1,29 @@
+
+// to be defined
+
+
+
+/*
+
+plot({s.sensor[1], s.sensor[2]},
+externalWindow=true,
+fileName="System_res.mat"
+);
+*/
+
+plot({s.sensor[1], s.sensor[2],
+env.state, env.fifox, env.datavailable1,
+env.inputdata1[1], env.inputdata1[2],
+env.outputdata1[1],
+client.state, client.fifox, client.counter,
+client.inputdata[1],
+client.outputdata[1],
+client.outputdata[2],
+client.MobAvg[1], client.MobAvg[2],
+client.sk[1], client.sk[2],
+client.x[1, 1], client.x[1, 2],
+client.x[2, 1], client.x[2, 2]
+},
+externalWindow=true,
+fileName="System_res.mat"
+);

@@ -1,0 +1,5 @@
+Es 1 => Modellare un DTMC con N stati 
+Es 2 => Monitoraggio su sensori
+Es 3 => Server2Client e Client2Server di es 2
+Es 4 => Monitor per la gestione dell' es 3
+Es 5 => Costruzione di Record Controller User e Monitor

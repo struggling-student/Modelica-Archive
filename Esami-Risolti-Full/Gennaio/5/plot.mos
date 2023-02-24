@@ -1,0 +1,16 @@
+
+// to be defined
+
+
+
+
+
+plot({user1.Zref[1], user1.Zref[2],
+plant1.x[1], plant1.x[2],
+ctr1.u[1], ctr1.u[2],
+m1.Ym1[1], m1.Ym1[2]
+},
+externalWindow=true,
+fileName="System_res.mat"
+);
+

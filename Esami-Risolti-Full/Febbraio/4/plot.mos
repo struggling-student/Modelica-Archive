@@ -1,0 +1,58 @@
+
+// to be defined
+
+plot({
+mreq2.y1,
+mreq2.y2,
+mreq2.y,
+mreq3.y1,
+mreq3.y2,
+mreq3.y
+}, externalWindow=true, fileName="System_res.mat");
+
+
+
+/*
+plot({
+env1.u[1], env1.u[2], env1.u[3],
+m1.y,
+c1tos1.inputdata[1], c1tos1.inputdata[2], c1tos1.inputdata[3],
+c1tos1.outputdata[1], c1tos1.outputdata[2], c1tos1.outputdata[3],
+c2tos1.inputdata[1], c2tos1.inputdata[2], c2tos1.inputdata[3],
+c2tos1.outputdata[1], c2tos1.outputdata[2], c2tos1.outputdata[3],
+s1toc1.inputdata[1], s1toc1.outputdata[1],
+s1toc2.inputdata[1], s1toc2.outputdata[1],
+mreq2.y1,
+mreq2.y2,
+mreq2.y,
+mreq3.y1,
+mreq3.y2,
+mreq3.y,
+mreq4.y,
+mreq4.MaxDelay
+}, externalWindow=true, fileName="System_res.mat");
+*/
+
+
+/*
+plot({
+mreq2.y1,
+mreq2.y2,
+mreq2.y
+}, externalWindow=true, fileName="System_res.mat");
+*/
+
+
+/*
+plot({
+mreq2.readsignal1, mreq2.readsignal2,
+mreq2.writesignal1, mreq2.writesignal2,
+mreq2.outputdata1[1], mreq2.outputdata1[2], mreq2.outputdata1[3],
+mreq2.outputdata2[1], mreq2.outputdata2[2], mreq2.outputdata2[3],
+mreq2.inputdata1[1], mreq2.inputdata2[1],
+mreq2.y, mreq2.y1, mreq2.y2
+}, externalWindow=true, fileName="System_res.mat");
+*/
+
+getErrorString();
+
