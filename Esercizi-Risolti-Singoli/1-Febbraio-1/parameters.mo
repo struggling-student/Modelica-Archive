@@ -1,4 +1,5 @@
-
+//* Parametri dati dal professore, per accedere 
+//* fare K.nome parametro
 record K
 
 parameter Integer ID = 1948810;  //  Sostituire qui la vostra matricola
@@ -22,7 +23,4 @@ parameter Integer D = 1;
 parameter Integer F = 1;
 parameter Integer G = 2;
 
-
-
 end K;
-

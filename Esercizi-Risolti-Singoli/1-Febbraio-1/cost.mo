@@ -1,3 +1,4 @@
+//* Funzione per calcolare il costo giornalier di un team
 function costPerDay
     input Integer k; // Team
     output Real c; // Costo

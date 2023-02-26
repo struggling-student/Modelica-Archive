@@ -1,0 +1,15 @@
+
+// to be defined
+
+plot({env.inputdata1[1], env.inputdata1[2], env.inputdata1[3],
+s2c.fifosize,
+mkup.outputdata[1], mkup.outputdata[2], mkup.outputdata[3],
+yval[1].y, yval[1].stdDev,
+yval[2].y, yval[2].stdDev,
+yval[3].y, yval[3].stdDev,
+tdiff.diff,
+ydiff.y, ydiff.stdDev
+},
+externalWindow=true,
+fileName="System_res.mat"
+);
