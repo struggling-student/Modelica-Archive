@@ -10,15 +10,15 @@ InputReal R[3];      // vettor r
 OutputReal avg[3];	
 OutputReal stdDev[3]; // deviadione standard
 
-
-
 OutputReal W[3];   // array con l'errore
 
 Integer counter;
+
 Real y;
 Real c;  // Second order moment for development completion time
 Real Var;  // Variance completion time
 Real d;
+
 Boolean endCondition;
 
 
@@ -34,6 +34,7 @@ Var := 0;
 d := 0;
 endCondition := true;
 
+// TODO : controllare se posso rimuovere questa parte e funziona lo stesso.
 for i in 1:3 loop
 	stdDev[i] := 0;
 	avg[i] := 0;
@@ -47,10 +48,10 @@ for i in 1:3 loop
 	W[i] := X[i] - R[i];
 
 	y := y*(counter/(counter + 1)) + W[i]/(counter + 1) ;
-	// variable utile al calcolo della varianda
+	// variable utile al calcolo della varianza
 	c := c*(counter/(counter + 1)) + (W[i]^2)/(counter + 1) ;
 
-	// varianda
+	// varianza
 	Var := c - (y^2);
 	// calcolo varianza
 	d := sqrt(Var);
@@ -60,9 +61,11 @@ for i in 1:3 loop
 	avg[i] := y;
 	stdDev[i] := d;
 
-
-
 end for;
+
+
+
+
 
 endCondition := true;
 
@@ -71,7 +74,6 @@ if (time > Prm.HORIZON) then
 endCondition := true; // finished
 else 
 endCondition := false; // we havent reached yet the 40000 mark
-
 end if;
 
 

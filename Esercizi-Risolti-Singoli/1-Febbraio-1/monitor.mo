@@ -47,22 +47,12 @@ for i in 1:K.W loop
     stddevCost[i] = calcCosts[i].stdDev;
 end for;
 
-//? Helper per la condizione di terminazione
-
+//* Fine simulazione e print sul file outputs.txt
 algorithm
 
 when ((time > 1000 and is_ok(times, stddevTime)) or time >= 10000) then
     Modelica.Utilities.Files.remove("outputs.txt");
     Modelica.Utilities.Streams.print("Team AvgTime AvgCost StdDevTime StdDevCost (ID = "+String(K.ID)+", MyMagicNumber = "+String(K.MyMagicNumber)+", time = " + String(time) + " )", "outputs.txt");
-    
-    // Qui va aggiunta la riga extra,
-    // bisogna calcolare anche media e deviazione standard per l'intero progetto
-    /*
-    A = <Valore del parametro A>, B = <Valore del parametro B>, C = <Valore
-del parametro C>, D = <Valore del parametro D>, F = <Valore del parametro
-F>, G = <Valore del parametro G>, N = <Valore del parametro N>, W =
-<Valore del parametro W>, AvgTime = <Valore atteso del tempo di completamente del progetto>, AvgCosto = <Valore atteso del costo del progetto>
-*/
     Modelica.Utilities.Streams.print(
         "A = " + String(K.A) +
         ", B = " + String(K.B) +
