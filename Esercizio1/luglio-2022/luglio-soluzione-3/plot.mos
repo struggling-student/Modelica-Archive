@@ -1,0 +1,9 @@
+
+plot({mt1[1].x, mt1[2].x, ctl1[1].v, ctl1[1].y, ctl1[1].z, ctl1[1].y2, ctl1[1].Var, ctl1[1].counter, m1.Avgcost[1]}, externalWindow=true, fileName="System_res.mat");
+getErrorString();
+
+
+// to be defined
+
+
+

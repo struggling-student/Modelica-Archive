@@ -1,0 +1,5 @@
+
+
+simulate(System, stopTime=150000); // value bigger than the one in "monitor.mo" which terminates the simulation
+getErrorString();
+

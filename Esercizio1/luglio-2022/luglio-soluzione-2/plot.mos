@@ -1,0 +1,8 @@
+
+// to be defined
+
+
+plot({m1.y[1], m1.y[2], m1.y[3], m1.y[4], m1.y[5],
+m1.z[1], m1.z[2], m1.z[3], m1.z[4], m1.z[5]
+}, externalWindow=true, fileName="System_res.mat");
+getErrorString();

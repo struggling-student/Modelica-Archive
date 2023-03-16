@@ -1,0 +1,4 @@
+p k1 k2 Component AvgValue StdDeValue (ID = 1885219, MyMagicNumber = 39, time = 10.001 )
+-1  -1  -2  1  -11.9989  8.67014
+-1  -1  -2  2  -11.9988  8.67
+-1  -1  -2  3  -11.9991  8.66998
