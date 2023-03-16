@@ -1,0 +1,9 @@
+
+// to be defined
+
+
+
+
+plot({p.x[1], p.x[2], p.x[3], p.v[1], p.v[2], p.v[3], ctr.u[1], ctr.u[2], ctr.u[3],us.r[1],us.r[2],us.r[3], yd[1].y,yd[2].y, yd[3].y, yd[1].stdDev, yd[2].stdDev, yd[3].stdDev, yd[1].termcond,yd[2].termcond, yd[3].termcond,
+m.e[1], m.e[2], m.e[3]}, externalWindow=true, fileName="System_res.mat");
+getErrorString();

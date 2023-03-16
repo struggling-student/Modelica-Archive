@@ -1,0 +1,4 @@
+ComponentIndex AvgError StdDevError (ID = 1946590, MyMagicNumber = 168, HORIZON=50, time =50.001 )
+1  -0.81485  3.32426
+2  -0.814845  3.32425
+3  -0.81484  3.32424

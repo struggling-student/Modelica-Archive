@@ -1,0 +1,7 @@
+
+// to be defined
+
+plot({ct[1].y, ct[1].stdev, ct[1].x,
+ct[2].y, ct[2].stdev, ct[2].x,
+ct[2].termcond}, externalWindow=true, fileName="System_res.mat");
+getErrorString();

@@ -1,0 +1,9 @@
+
+// to be defined
+
+
+plot({mc.x, m1.y, m1.counter}, externalWindow=true, fileName="System_res.mat");
+getErrorString();
+
+
+

@@ -1,0 +1,7 @@
+
+// to be defined
+
+
+
+plot({m1.Ym1[1],m1.Ym1[2]}, externalWindow=true, fileName="System_res.mat");
+getErrorString();

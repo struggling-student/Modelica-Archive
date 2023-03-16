@@ -1,0 +1,13 @@
+
+// to be defined
+
+
+
+plot({
+plant1.u,
+plant1.v,
+ctr1.Vref,
+ctr1.z,
+m1.y
+}, externalWindow=true, fileName="System_res.mat");
+

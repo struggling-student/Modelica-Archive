@@ -1,0 +1,10 @@
+plot({
+    m1.e /*,
+    user1.r,
+    plant1.x,
+    ctr.u,
+    d1.w */
+}, externalWindow=true, fileName="System_res.mat");
+
+
+
