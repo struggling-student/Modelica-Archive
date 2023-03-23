@@ -33,4 +33,4 @@
     * Gennaio 2023
     * Novembre 2022
 * Impianto Industriale
-    * [Luglio 2022 ](https://raw.githubusercontent.com/LucianCrainic/Modelica/main/Esercizio5/luglio-2022/luglio-soluzione-1/README.md)
+    * Luglio 2022 
