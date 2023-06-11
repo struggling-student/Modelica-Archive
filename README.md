@@ -5,64 +5,62 @@
 > Please remember to not upload any personal information about yourself or other students. This repository is meant to be used as a reference for future students who want to take the exam. All the solutions should be uploaded in a way that they don't contain any personal information.
 
 ## Table of contents
-> **Warning**
-> The table of contents is still in development, so expect some changes to be made to it.
 - Exercise 1
     - January 2022
-        - [Solution 1]()
+        - [Solution 1](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/1-January-2022-1)
     - February 2022
-        - [Solution 1]()
+        - [Solution 1](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/1-February-2022-1)
     - April 2022
-        - [Solution 1]()
+        - [Solution 1](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/1-April-2022-1)
     - July 2022
-        - [Solution 1]()
-        - [Solution 2]()
-        - [Solution 3]()
+        - [Solution 1](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/1-July-2022-1)
+        - [Solution 2](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/1-July-2022-2)
+        - [Solution 3](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/1-July-2022-3)
     - September 2022
-        - [Solution 1]()
-        - [Solution 2]()
+        - [Solution 1](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/1-September-2022-1)
+        - [Solution 2](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/1-September-2022-2)
     - January 2023
-        - [Solution 1]()
-        - [Solution 2]()
+        - [Solution 1](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/1-January-2023-1)
+        - [Solution 2](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/1-January-2023-2)
     - February 2023
-        - [Solution 1]()
+        - [Solution 1](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/1-February2023-1)
     - March 2023
-        - [Solution 1]()
+        - [Solution 1](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/1-March-2023-1)
 - Exercise 2
     - July 2022
-        - [Solution 1]()
+        - [Solution 1](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/2-July-2022-1)
     - February 2023
-        - [Solution 1]()
-        - [Solution 2]()
+        - [Solution 1](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/2-February-2023-1)
+        - [Solution 2](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/2-February-2023-2)
     - January 2023
-        - [Solution 1]()
+        - [Solution 1](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/2-January-2023-1)
     - March 2023
-        - [Solution 1]()
+        - [Solution 1](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/2-March-2023-1)
 - Exercise 3
     - At the moment there are no solutions for this type of exercise, if you have any please contribute to the repository by following the instructions in the [How to contribute](#how-to-contribute) section.
 - Exercises 4
     - At the moment there are no solutions for this type of exercise, if you have any please contribute to the repository by following the instructions in the [How to contribute](#how-to-contribute) section.
 - Exercises 5
     - January 2022
-        - [Solution 1]()
+        - [Solution 1](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/5-January-2022-1)
     - February 2022
-        - [Solution 1]()
+        - [Solution 1](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/5-February-2022-1)
     - April 2022
-        - [Solution 1]()
+        - [Solution 1](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/5-April-2022-1)
     - July 2022
-        - [Solution 1]()
+        - [Solution 1](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/5-July-2022-1)
     - September 2022
-        - [Solution 1]()
-        - [Solution 2]()
+        - [Solution 1](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/5-September-2022-1)
+        - [Solution 2](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/5-September-2022-2)
     - January 2023
-        - [Solution 1]()
-        - [Solution 2]()
+        - [Solution 1](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/5-January-2023-1)
+        - [Solution 2](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/5-January-2023-2)
     - February 2023
-        - [Solution 1]()
-        - [Solution 2]()
-        - [Solution 3]()
+        - [Solution 1](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/5-February-2023-1)
+        - [Solution 2](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/5-February-2023-2)
+        - [Solution 3](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/5-February-2023-3)
     - March 2023
-        - [Solution 1]()
+        - [Solution 1](https://github.com/struggling-student/Modelica-Archive/tree/main/Exams-Exercises-Solutions/5-March-2023-1)
 
 ## How to contribute
 1. Fork the repository
