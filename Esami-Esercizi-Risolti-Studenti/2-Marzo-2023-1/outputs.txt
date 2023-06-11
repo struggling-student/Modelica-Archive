@@ -1,0 +1,2 @@
+Avg StdDev (ID = 1938430, MyMagicNumber = 139, HORIZON = 10000, time = 10000)
+11.3813  9.76298

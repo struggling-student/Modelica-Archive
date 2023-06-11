@@ -1,2 +1,0 @@
-AvgErr StdDevErr (ID = 1904918, MyMagicNumber = 16, HORIZON = 100, time = 100)
--76.1119  109.002

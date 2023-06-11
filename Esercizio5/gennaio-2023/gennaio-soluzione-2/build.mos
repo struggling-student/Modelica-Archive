@@ -1,6 +1,0 @@
-
-runScript("load.mos");
-
-buildModel(System, stopTime=10000);
-getErrorString();
-

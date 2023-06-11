@@ -1,9 +1,0 @@
-
-
-runScript("load.mos");
-
-runScript("simulate.mos");
-
-runScript("plot.mos");
-
-

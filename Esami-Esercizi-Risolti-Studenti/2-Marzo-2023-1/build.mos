@@ -1,0 +1,6 @@
+
+runScript("load.mos");
+
+buildModel(System, stopTime=100000);
+getErrorString();
+

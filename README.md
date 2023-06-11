@@ -1,36 +1,19 @@
-# Modelica
-> Principalmente focalizzato sugli esercizi 1 e 5, che sono i più fattibili. Sono presenti soluzioni anche per esercizi 2, 3 e 4, ma non sono state testate.
+# Modelica Exams Archive - Ingegneria del Software
+> Repository of exams of the Ingegneria del Software course at La Sapienza University of Rome. All the exams solutions are from students who took the exam and successfully passed it. The repository is open to contributions, so feel free to add your own solutions to the exams you took.
 
-## Esercizio 1
-* $(A+Bk^2+Ci^2+Dki)$
-    * Gennaio 2023
-    * Febbraio 2023
-* $(A+B*k)//(C+D*i)$
-    * Settembre 2022
-* $A(k)e^{-(i-1)\lambda (k)}$
-    * Febbraio 2022
-* $A(k)B(i)$
-    * Aprile 2022
-* $(A+B*k+C*i+D*k*i)$
-    * Novembre 2022
-* If then else
-    * Luglio 2022
-    * Giugno 2022
-* Matrice
-    * Gennaio 2022
-## Esercizio 5
-* Reazioni Chimiche 
-    * Aprile 2022
-    * Giugno 2022
-* Web Server
-    * Febbraio 2022
-* Forno per Pizza
-    * Febbraio 2023
-* Auto
-    * Gennaio 2022
-* Drone
-    * Settembre 2022
-    * Gennaio 2023
-    * Novembre 2022
-* Impianto Industriale
-    * Luglio 2022 
+> **Warning**
+> Please remember to not upload any personal information about yourself or other students. This repository is meant to be used as a reference for future students who want to take the exam. All the solutions should be uploaded in a way that they don't contain any personal information.
+
+## How to contribute
+1. Fork the repository
+2. Create a new branch
+3. Add your solutions to the exam you took
+4. Commit your changes
+5. Push to the branch
+6. Open a pull request
+
+## How to use
+TODO
+
+## Notes
+* The repository is still in development, so expect some changes to be made to the structure of the repository.

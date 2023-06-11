@@ -1,5 +1,0 @@
-
-
-simulate(System, stopTime=500000);
-getErrorString();
-

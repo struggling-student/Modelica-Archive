@@ -1,0 +1,8 @@
+
+// to be defined
+
+
+
+
+plot({p.x, p.u, p.r, p.z, m.e[1], m.e[2]}, externalWindow=true, fileName="System_res.mat");
+getErrorString();

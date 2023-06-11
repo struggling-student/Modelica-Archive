@@ -1,0 +1,5 @@
+Dipendente AvgTime AvgCost StdDevTime StdDevCost (ID = 1938430, MyMagicNumber = 139, time = 10001 )
+A = 1, B = 1, C = 1, D = 1, F = 1, G = 2, N = 5, W = 3, Avgtime = 145.225, AvgCosto = 185194
+1  75.1429  112714  50.2342 75351.3
+2  133.486  177982  90.5651 120753
+3  227.045  264886  179.886 209867
